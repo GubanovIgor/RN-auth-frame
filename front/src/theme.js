@@ -1,0 +1,6 @@
+export const THEME = {
+  MAIN_COLOR: '#282C34',
+  LIGHT_MAIN_COLOR: '#495469',
+  DANGER_COLOR: '#FF6363',
+  TURQUOISE_COLOR: '#45ffdb'
+}
